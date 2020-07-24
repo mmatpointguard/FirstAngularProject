@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   is-fullheight">
     <div class="hero-body">
       <div class="container has-text-centered">
-        <h1 class="title">Coming Soon</h1> 
+        <h1 class="title">Coming Soon AAAAAAA</h1> 
       </div>
    </div>
   </section>
